@@ -9,5 +9,5 @@ export default defineConfig({
     babel({ presets: [reactCompilerPreset()] })
     
   ],
-  base : "https://github.com/martin91sa/PokemonInel"
+  base : "https://github.com/Martin91SA/PokemonIndex"
 })
