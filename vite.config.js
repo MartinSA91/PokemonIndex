@@ -7,5 +7,7 @@ export default defineConfig({
   plugins: [
     react(),
     babel({ presets: [reactCompilerPreset()] })
+    
   ],
+  base : "https://github.com/martin91sa/PokemonInel"
 })
